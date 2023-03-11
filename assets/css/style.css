@@ -1,0 +1,32 @@
+form input, form select, #discount {
+    width: 100%;
+    border: 1ps solid #2b2929;
+    border-radius: 5px;
+    height: 40px;
+}
+table {
+    width: 100%;
+    margin-top: 100px;
+}
+table tr td, table tr th {
+    border:  1px solid #2b2929;
+    padding: 15px;
+}
+.total td {
+    border: none!important;
+    font-weight: 900;
+}
+.display-items {
+    margin-bottom: 100px;;
+}
+#generate_invoice {
+    margin-top: 50px;
+    float: right;
+    padding: 20px 30px;
+    background-color: #fff;
+    margin-bottom: 100px;
+}
+#add_discount, #add_item  {
+    padding: 10px 30px;
+    background-color: #fff;
+}
